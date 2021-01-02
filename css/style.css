@@ -25,7 +25,7 @@ h1, h2, h3{
  /* main header */
 header {
     display: flex;
-    background-color: #7477bf;
+    background-color: skyblue;
     color: white;
     justify-content: flex-end;
     align-items: center;
@@ -94,7 +94,7 @@ header {
   }
 
   .notification-marker{
-    background-color: #78CF82;
+    background-color: orange;
     height:8px;
     width: 8px;
     border-radius: 50%;
@@ -149,7 +149,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: #4d4b72;
+    background-color: skyblue;
   }
 
   .navImages {
@@ -219,7 +219,7 @@ header {
 
   }
   li:hover {
-    background-color: #78CF82;
+    background-color: orange;
     color: white;
   }
 
@@ -239,7 +239,7 @@ header {
   svg{
     overflow: visible;
     fill: white; 
-    background-color: #7377bf; 
+    background-color: orange; 
     height: 50px;
     padding: 15px;
     border-radius: 50%;
